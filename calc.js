@@ -9,4 +9,5 @@ function calc(){
 	document.getElementById("disp").value = eval(y);
 }
  
+console.log("our project is ready");
  
