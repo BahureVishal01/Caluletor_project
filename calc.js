@@ -8,6 +8,5 @@ function calc(){
 	let y = document.getElementById("disp").value;
 	document.getElementById("disp").value = eval(y);
 }
- 
-console.log("our project is ready");
+
  
